@@ -1,0 +1,10 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.8.3"
+manifest_format = "2.0"
+project_hash = "a64dfbf634dc4be3a092523f32435421806e63e1"
+
+[[deps.ASCE7]]
+path = "/Users/crismoen/.julia/dev/ASCE7"
+uuid = "8c40cf15-9b42-48b6-b3e0-b0077279b9ec"
+version = "0.1.0"

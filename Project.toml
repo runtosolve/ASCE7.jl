@@ -1,0 +1,4 @@
+name = "ASCE7"
+uuid = "8c40cf15-9b42-48b6-b3e0-b0077279b9ec"
+authors = ["Cris Moen <54078289+cristophermoen@users.noreply.github.com>"]
+version = "0.1.0"
