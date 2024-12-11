@@ -1,6 +1,19 @@
 module v2016
 
 
+function eq12_8__2(SDS, R, Ie)
+
+    Cs = SDS / (R / Ie)
+
+end
+
+function eq12_8__3(SD1, T, R, Ie)
+
+    Cs = SD1 / (T * (R / Ie))
+
+end
+
+
 function eq26_10__1(Kz, Kzt, Kd, Ke, V)
 
     reference = "Eq.26.10-1"
